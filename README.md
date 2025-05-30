@@ -17,7 +17,7 @@ I'm passionate about learning and exploring diverse interests — from Bitcoin (
   - The **freeCodeCamp curriculum**
   - IT certifications in **ServiceNow**, **Microsoft Azure**, and **Salesforce**
 - 🧠 Familiar with:
-  - **C** and **C# programming**
+  - **C**, **C# programming**, and **JavaScript**
   - **Responsive Web Design (RWD)**
   - **Mathematics** and **Physics**
 
