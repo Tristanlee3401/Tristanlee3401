@@ -21,7 +21,7 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
   - IT certifications in *ServiceNow**, *Microsoft Azure*, and *Salesforce*
 
 - 🧠 Familiar with:
-  - *C**, *C#*, *python* and *JavaScript*
+  - *C*, *C#*, *python* and *JavaScript*
   - *Responsive Web Design (RWD)*
   - *Mathematics** and **Physics*
   - *Accounting*
