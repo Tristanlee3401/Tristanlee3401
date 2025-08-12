@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Tristan Lee (@Tristanlee3401)
 
-I'm passionate about learning and exploring diverse interests — from Bitcoin (₿), motorcycles, music, software development, and travelling the world.
+I’m passionate about exploring and learning across a wide range of interests — from Bitcoin (₿), motorcycles, and music to software development and world travel.
+
+Currently, I’m pursuing a Master of Computer Science at Monash University, diving deeper into the world of technology and its possibilities.
 
 ---
 
@@ -14,11 +16,12 @@ I'm passionate about learning and exploring diverse interests — from Bitcoin (
 ## 🎓 Education Background & Learning
 - 🎓 **Bachelor’s Degree in Accounting**, **Higher National Diploma in Electrical and Electronics Engineering**, and **Diploma in Electrical Engineering Technology**
 - 📚 Currently diving into:
-  - The *freeCodeCamp curriculum* and *Odin Project*
+  - Master of Computer Science at Monash University
+  - *Harvard CS50x*, *freeCodeCamp curriculum*, and *Odin Project*
   - IT certifications in *ServiceNow**, *Microsoft Azure*, and *Salesforce*
 
 - 🧠 Familiar with:
-  - *C**, *C#*, and *JavaScript*
+  - *C**, *C#*, *python* and *JavaScript*
   - *Responsive Web Design (RWD)*
   - *Mathematics** and **Physics*
   - *Accounting*
