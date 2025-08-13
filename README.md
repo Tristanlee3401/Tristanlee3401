@@ -18,7 +18,7 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
 - 📚 Currently diving into:
   - Master of Computer Science at Monash University
   - *Harvard CS50x*, *freeCodeCamp curriculum*, and *Odin Project*
-  - IT certifications in *ServiceNow**, *Microsoft Azure*, and *Salesforce*
+  - IT certifications in *ServiceNow*, *Microsoft Azure*, and *Salesforce*
 
 - 🧠 Familiar with:
   - *C*, *C#*, *python* and *JavaScript*
