@@ -7,9 +7,10 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
 ---
 
 ## Notable Projects
-- Developed a *Maclaurin Series Calculator* in *C*.
-- Built multiple projects via [freeCodeCamp](https://www.freecodecamp.org/).
-- Designed and programmed a **semi-intelligent robotic vehicle** using embedded microprocessor systems.
+- Maclaurin Series Calculator in *C*.
+- Command Line IPv4 and IPv6 conversion calculator for Linux Network Analysis in *C*
+- Designed and programmed a **semi-intelligent robotic vehicle** using *Embedded Microprocessor Systems*.
+- Self-development across various platforms including [freeCodeCamp](https://www.freecodecamp.org/), CS50x, and Microsoft
 
 ---
 
@@ -17,7 +18,7 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
 - **Bachelor’s Degree in Accounting**, **Higher National Diploma in Electrical and Electronics Engineering**, and **Diploma in Electrical Engineering Technology**
 - Currently diving into:
   - Master of Computer Science at Monash University
-  - *Harvard CS50x*, *freeCodeCamp curriculum*, and *Odin Project*
+  - *Linux*, *Harvard CS50x*, *freeCodeCamp curriculum*, and *Odin Project*
   - IT certifications in *ServiceNow*, *Microsoft Azure*, and *Salesforce*
 
 - Familiar with:
