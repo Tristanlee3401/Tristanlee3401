@@ -9,7 +9,7 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
 ## Notable Projects
 - Maclaurin Series Calculator in *C*.
 - Command Line IPv4 and IPv6 conversion calculator for Linux Network Analysis in *C*
-- Designed and programmed a **semi-intelligent robotic vehicle** using *Embedded Microprocessor Systems*.
+- Designed and programmed a **[semi-intelligent robotic vehicle](https://www.youtube.com/watch?v=BA7wP8u3B7w)** using *Embedded Microprocessor Systems*.
 - Self-development across various platforms including [freeCodeCamp](https://www.freecodecamp.org/), CS50x, and Microsoft
 
 ---
@@ -35,4 +35,4 @@ I'm always excited to collaborate on interesting projects — whether you're bui
 ---
 
 ## Connect With Me
-Reach out via **[GitHub](https://github.com/Tristanlee3401)**, **LinkedIn**, or other social platforms. Let's connect and create something awesome!
+Reach out via **[GitHub](https://github.com/Tristanlee3401)**, **[LinkedIn](https://www.linkedin.com/in/tristanlee3401]**, or other social platforms. Let's connect and create something awesome!
