@@ -8,7 +8,7 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
 
 ## Notable Projects
 - Maclaurin Series Calculator in *C*.
-- Command Line IPv4 and IPv6 conversion calculator for Linux Network Analysis in *C*
+- Network Analysis tools in the CLI
 - Designed and programmed a **[semi-intelligent robotic vehicle](https://www.youtube.com/watch?v=BA7wP8u3B7w)** using *Embedded Microprocessor Systems*.
 - Self-development across various platforms including freeCodeCamp, CS50x, and Microsoft
 
