@@ -9,6 +9,8 @@ Currently, I’m pursuing a Master of Computer Science at Monash University, div
 ## Notable Projects
 - Maclaurin Series Calculator in *C*.
 - Network Analysis tools in the CLI
+- Static webpage @ https://tristanlee.net/
+- Self hosting web services and custom domains
 - Designed and programmed a **[semi-intelligent robotic vehicle](https://www.youtube.com/watch?v=BA7wP8u3B7w)** using *Embedded Microprocessor Systems*.
 - Self-development across various platforms including freeCodeCamp, CS50x, and Microsoft
 
